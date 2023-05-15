@@ -1,1 +1,2 @@
-# 394-hw2
+# Performing Statistical Tests and Analysis in R
+This R code provides examples of performing statistical tests and analysis using various functions in R. It covers topics such as probability distributions, hypothesis testing, confidence intervals, and comparison of data sets. The code snippets demonstrate how to calculate probabilities, perform t-tests, Wilcoxon tests, and variance tests, plot histograms and cumulative distribution functions, and summarize data using tables. Each code snippet is accompanied by explanations and comments to aid in understanding the statistical concepts and their implementation in R.
