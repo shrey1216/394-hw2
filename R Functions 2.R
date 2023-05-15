@@ -103,3 +103,4 @@ t.test(eyes[1,], eyes[2,], conf.level = 0.90)
 #(b) Calculate a 90% confidence interval for the mean difference in thickness.
 #From the script from 7(a), the 90% confidence interval for the mean difference in thickness 
 #is -29.94056 to 22.19056. 
+
